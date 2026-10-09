@@ -1,23 +1,5 @@
 <!DOCTYPE html>
 <html lang="vi">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Chính sách quyền riêng tư — VocaLearn</title>
-<style>
-  body { max-width: 46rem; margin: 0 auto; padding: 2rem 1.25rem 4rem;
-         font: 16px/1.65 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-         color: #222; }
-  h1 { font-size: 1.6rem; margin-bottom: .25rem; }
-  h2 { font-size: 1.15rem; margin-top: 2.2rem; }
-  .updated { color: #666; font-size: .9rem; margin-top: 0; }
-  table { border-collapse: collapse; width: 100%; margin: 1rem 0; }
-  th, td { border: 1px solid #ddd; padding: .55rem .7rem; text-align: left; vertical-align: top; font-size: .95rem; }
-  th { background: #f6f6f6; }
-  hr { margin: 3.5rem 0 2rem; border: none; border-top: 1px solid #ddd; }
-  code { background: #f2f2f2; padding: .1rem .3rem; border-radius: 3px; }
-</style>
-</head>
 <body>
 
 <h1>Chính sách quyền riêng tư — VocaLearn</h1>
